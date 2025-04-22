@@ -1,0 +1,7 @@
+criar o projeto (gerenciador de pacotes npm)
+nest new .
+
+nest g resource nome_da_pasta
+REST API
+
+nest run start:dev
